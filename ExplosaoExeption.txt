@@ -1,0 +1,6 @@
+package br.com.Cod3r.cm.execao;
+
+public class ExplosaoExeption extends RuntimeException {
+
+	private static final long serialVersionUID = 1l;
+}
